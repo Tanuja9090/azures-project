@@ -1,1 +1,1 @@
-# azures-project
+Manage workloads in Azure.migrate workloads using Azure Migrate,assess infrastructure,select a migration method,prepare the on-premises for migration,recommend target infrastructure,implement Azure Backup for VMs,implement disaster recovery.
